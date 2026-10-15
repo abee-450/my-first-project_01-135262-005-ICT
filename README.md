@@ -1,2 +1,4 @@
-# my-first-project_01-135262-005-ICT
-My first GitHub repository
+## Student Info
+- Name: ABEEHA IHSAN
+- Program: BSIT
+- Date: 15 October, 2025
